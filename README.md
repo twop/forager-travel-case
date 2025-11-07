@@ -1,9 +1,6 @@
 # Overview
 Travel case for an amazing keyboard [Forager](https://github.com/carrefinho/forager) designed by [carrefinho](https://github.com/carrefinho).
 
-![Screenshot](images/finished-case-closed.jpeg)
-![Screenshot](images/finished-case-inside-halves.jpeg)
-
 Primarily designed by my friend [Jacob](https://github.com/freakerepo) for me <3 with my humble input and original sketches.
 
 ## Features
@@ -14,9 +11,15 @@ Primarily designed by my friend [Jacob](https://github.com/freakerepo) for me <3
 - Compact, but should have enough space for taller keycaps like [Lame](https://github.com/braindefender/KLP-Lame-Keycaps/)
 - Simple: no glue or screws required
 
+
 ## Pictures
 
-TODO
+![Screenshot](images/finished-case-closed.jpeg)
+![Screenshot](images/finished-case-opened.jpeg.jpeg)
+![Screenshot](images/finished-case-inside-halves.jpeg)
+![Screenshot](images/finished-workspace-2.jpeg)
+
+More [here](/images)
 
 ## Bill of Materials
 I'm going to use Amazon links, but these should be widely accessible. And some can be reused from the Forager build.
