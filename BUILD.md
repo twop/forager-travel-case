@@ -31,15 +31,15 @@ Note: the magnet orientation relative to the case
 Repeat for the second half.
 
 ### Insert Magnets and Pins into the Case (Inner Side)
-![before-pins](images/build-step-3--.jpeg)
+![before-pins](images/build-step-3-1.jpeg)
 ![connecting-two-halves](images/build-step-3-2.jpeg)
 
-- Note that pins are designed to be inserted into the half that has two round holes; it has tighter spacing.
+- Pins are designed to be inserted into the half that has two round holes; it has tighter spacing.
 - Note the magnet orientation, so both halves would actually connect!
 - Because this is the side that was on the 3D printer bed, it may be a bit tight (depending on filament), so some instrument might be helpful to apply firm but gentle pressure.
 
 ### Rubber Stickers and Pads for Palm Rests
-The cover has a minor depression of 10 mm in diameter to indicate where the stickers should go. The spacing is designed for pads at least 3.5 mm thick, so when the cover is angled, it still sits on the pads.
+The cover has minor depressions of 10 mm in diameter to indicate where the stickers should go. The spacing is designed for pads at least 3.5 mm thick, so when the cover is angled, it still sits on the pads.
 ![pad-sticker](images/build-step-4-1.jpeg)
 
 ---
@@ -53,5 +53,5 @@ Basically, you need 4 stripes that would provide friction when used as a palm re
 
 ### Put It All Together
 
-![opened-no-cover](finished-case-opened-no-cover.jpeg)
-![finished-inside-halves](finished-case-inside-halves.jpeg)
+![opened-no-cover](images/finished-case-opened-no-cover.jpeg)
+![finished-inside-halves](images/finished-case-inside-halves.jpeg)
