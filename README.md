@@ -1,7 +1,8 @@
 # Overview
 Travel case for an amazing keyboard [Forager](https://github.com/carrefinho/forager) designed by [carrefinho](https://github.com/carrefinho).
 
-![Screenshot]()
+![Screenshot](images/finished-case-closed.jpeg)
+![Screenshot](images/finished-case-inside-halves.jpeg)
 
 Primarily designed by my friend [Jacob](https://github.com/freakerepo) for me <3 with my humble input and original sketches.
 
