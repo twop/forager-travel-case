@@ -3,7 +3,7 @@ Files located in [model-files](/model-files).
 
 - Note that some might need to be flipped upside down in orientation for printing. The model files are taken from the assembly view, hence the assembly orientation.
 - All 4 files should be printable without supports. Magnet holes have special geometry that don't require bridging nor support.
-- I printed with 0.1 mm layer height for higher fidelity, but all the prototype prints I have done with 0.2 mm.
+- I printed with 0.1 mm layer height for higher fidelity, but all the prototype prints I have done are 0.2 mm.
 
 
 ## Bill of Materials
@@ -26,8 +26,10 @@ Repeat for the second half.
 
 ### Insert Magnets into the Cover
 
-Note: the magnet orientation relative to the case
+Pay attention to the magnet orientation relative to the case
+
 ![half](images/build-step-2.jpeg)
+
 Repeat for the second half.
 
 ### Insert Magnets and Pins into the Case (Inner Side)
